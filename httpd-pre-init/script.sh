@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Test script start ..."
+echo "Test 1 script start ..."
 
-mkdir -p /tmp/test
-echo "Test script" > /tmp/test/file.data
+mkdir -p /tmp/test1
+echo "Test 1 script" > /tmp/test1/file.data
 
-echo "Test script end ..."
+echo "Test 1 script end ..."
